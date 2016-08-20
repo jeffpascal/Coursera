@@ -1,0 +1,17 @@
+Bootstrap makes available four classes
+
+-xs extra small
+-sm small
+-md medium screens
+-lg for large screens
+
+col-sm-5  -- occupies 5 columns
+
+
+If the screens are XS then they appear as 12 columns each div so col-xs-12 is used.
+<div class = "col-xs-12 col-sm-5">
+<div class = "col-xs-12 col-sm-5">
+
+
+If the screens are SM or BIGGER then they appear as 5 columns each div so col-sm-5 is used.
+<div class = "col-xs-12 col-sm-5">   <div class = "col-xs-12 col-sm-5">
