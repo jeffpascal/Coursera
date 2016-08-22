@@ -1,0 +1,6 @@
+Initializing NecroBot logger at time 8/15/2016 10:00:09 PM...
+Initializing NecroBot logger at time 8/15/2016 10:00:34 PM...
+[22:00:35] Your IP is: 99.253.46.56
+[22:00:36] Perfect! You already have the newest Version 0.9.0
+[22:00:36] Logging in using Ptc
+[22:00:36] User credentials are invalid and login failed.
